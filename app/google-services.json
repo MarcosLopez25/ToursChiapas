@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "752509042357",
+    "firebase_url": "https://tourschiapas-a9529.firebaseio.com",
+    "project_id": "tourschiapas-a9529",
+    "storage_bucket": "tourschiapas-a9529.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752509042357:android:b44dd52a1a39d313",
+        "android_client_info": {
+          "package_name": "com.example.tourschiapas.tourschiapas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752509042357-2a0qk8f63f1arhjs8ath4g98lhtfkl8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tourschiapas.tourschiapas",
+            "certificate_hash": "661cdd8e7f6ef01b3b80fa39333266974fdfd735"
+          }
+        },
+        {
+          "client_id": "752509042357-5pq0r71nqkqf92l7qoeiok9d1u2djbnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC91pPREp1xolCnq6GCyaq7iYxcpX6tfUw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752509042357-5pq0r71nqkqf92l7qoeiok9d1u2djbnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752509042357:android:fd915ea84ec999da",
+        "android_client_info": {
+          "package_name": "com.example.tourschiapasbeta.tourschiapas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752509042357-v50233f4df1do1r1s5o4fhs2kv39vuga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tourschiapasbeta.tourschiapas",
+            "certificate_hash": "661cdd8e7f6ef01b3b80fa39333266974fdfd735"
+          }
+        },
+        {
+          "client_id": "752509042357-5pq0r71nqkqf92l7qoeiok9d1u2djbnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC91pPREp1xolCnq6GCyaq7iYxcpX6tfUw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752509042357-5pq0r71nqkqf92l7qoeiok9d1u2djbnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
